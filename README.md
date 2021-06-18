@@ -10,7 +10,10 @@
 
 ♥️  Who is able to be egotistical needs to be strong too
 
-[![](https://komarev.com/ghpvc/?username=Jader&color=orange)](https://github.com/Jader)
-[![](https://img.shields.io/badge/Email-hmy940118@gmail.com-orange)](mailto:hmy940118@gmail.com)
+
+[![](https://github-visits.jader.me/api?username=Jader)](https://github.com/Jader)
+[![](https://img.shields.io/badge/hmy940118@gmail.com-orange?style=flat&logo=Gmail&logoColor=white)](mailto:hmy940118@gmail.com)
   
 ---
+
+
